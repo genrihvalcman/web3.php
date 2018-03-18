@@ -92,4 +92,8 @@ class RequestManager
     {
         return $this->timeout;
     }
+    public function setTimeout($timeout)
+    {
+        $this->timeout = $timeout;
+    }
 }
