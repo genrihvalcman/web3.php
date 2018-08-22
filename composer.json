@@ -13,7 +13,7 @@
     "require": {
         "guzzlehttp/guzzle": "~6.0",
         "PHP": "^7.1",
-        "kornrunner/keccak": "dev-master",
+        "kornrunner/keccak": "~1.0.3",
         "phpseclib/phpseclib": "dev-master"
     },
     "require-dev": {
